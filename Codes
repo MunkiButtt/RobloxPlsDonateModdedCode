@@ -1,0 +1,26 @@
+{
+
+"BTHP2021": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "1000000"
+}
+
+},
+{
+
+"BTHPIsTheBest": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "69420"
+}
+
+},{
+
+"RELEASE21": {
+    "Active": true,
+    "RewardType": "GiftBux",
+    "RewardValue": "100"
+}
+
+}
