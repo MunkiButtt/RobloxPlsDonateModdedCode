@@ -1,29 +1,23 @@
 {
 
-"BTHP2021": {
-    "Active": true,
-    "RewardType": "Robux",
-    "RewardValue": "1000000"
-},
-
-"BTHPIsTheBest": {
+"MonkeysAreTheBest": {
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": "69420"
 },
 
-"RELEASE21": {
+"RELEASE": {
     "Active": true,
     "RewardType": "GiftBux",
     "RewardValue": "100"
 },
-"Update1": {
+"Banana": {
     "Active": true,
     "RewardType": "Robux",
     "RewardValue": "250000"
 },
 
-"SwordArtOnline": {
+"MunkiMann": {
     "Active": true,
     "RewardType": "GiftBux",
     "RewardValue": "10000"
